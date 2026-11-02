@@ -1,0 +1,20 @@
+[
+ {"source":"sample","title":"Dutch TTF front-month jumps 6% as Norwegian outage tightens supply",
+  "text":"Dutch TTF front-month gas rose 6% to 38.4 EUR/MWh after unplanned maintenance at a Norwegian processing plant cut flows by 25 mcm/d. Traders also pointed to a cold snap forecast for northwest Europe next week.",
+  "url":"https://example.com/ttf-outage"},
+ {"source":"sample","title":"EU gas storage reaches 91% as mild weather curbs withdrawals",
+  "text":"European gas storage is 91% full, ahead of the usual schedule. Mild temperatures reduced heating demand and withdrawals fell for a third week, keeping the market well supplied.",
+  "url":"https://example.com/storage"},
+ {"source":"sample","title":"EU carbon allowances fall to 68 EUR/t on weaker industrial demand",
+  "text":"EUA benchmark December contracts slid 3% to 68 EUR/t as weak industrial output reduced expected emissions. Analysts see the decline continuing unless the EU Commission tightens the cap.",
+  "url":"https://example.com/eua"},
+ {"source":"sample","title":"German baseload power drops as record wind output floods the grid",
+  "text":"German day-ahead baseload power fell to 41 EUR/MWh as wind generation exceeded 40 GW, the highest this year. Demand was weak ahead of the weekend, pushing prices lower across the region.",
+  "url":"https://example.com/de-power"},
+ {"source":"sample","title":"French nuclear maintenance halts two reactors, lifting power prices",
+  "text":"Two French reactors were taken offline for unplanned maintenance, removing 2.6 GW of capacity. French day-ahead power rose 8% as imports from Germany increased.",
+  "url":"https://example.com/fr-nuclear"},
+ {"source":"sample","title":"Local council approves new cycle lanes in city centre",
+  "text":"The council voted on Tuesday to add protected cycle lanes along the main shopping street, with construction starting next spring.",
+  "url":"https://example.com/irrelevant"}
+]
