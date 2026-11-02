@@ -89,6 +89,9 @@ examples/      sample output from the keyword baseline
 - RSS items carry only a title and a short snippet, so the LLM sees less than a full article. Full-text fetching and paywalled sources are not handled.
 - No evaluation set yet. A next step is hand-labelling around 50 articles and measuring direction accuracy for the LLM versus the baseline.
 - The sentiment index is not backtested against price moves.
+- Sample outputs in examples/ were produced with a small local model (phi3 via Ollama).
+-  Direction labels are sometimes wrong, and some non-European or oil-only articles are marked relevant.
+-   Accuracy has not been measured yet.
 
 ## Ideas for next steps
 
